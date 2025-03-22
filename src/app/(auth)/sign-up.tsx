@@ -3,7 +3,7 @@ import React from "react";
 
 const SignUpScreen = () => {
   return (
-    <View>
+    <View className="border">
       <Text>SignUpScreen</Text>
     </View>
   );
